@@ -4,6 +4,11 @@ cd to the folder, and use the command line:
 ```buildoutcfg
 python setup.py install
 ```
+or
+```
+pip install .
+```
+
 
 
 ### lisence:MIT
